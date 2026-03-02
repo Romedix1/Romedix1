@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ About Me:
 I am a Fullstack Developer dedicated to building scalable and efficient web applications using modern technologies. My primary focus is on writing clean, maintainable code that stands the test of time.<br><br>I specialize in the Next.js and TypeScript ecosystem. I place a high value on robust project architecture, maintaining organized file structures, and optimizing the developer experience through clean import patterns and consistent naming conventions.<br><br>I am committed to developing solutions that are not only functional but also easy to scale and maintain. I continuously refine my skills by staying up to date with the latest industry patterns and best practices to ensure every project is built to modern standards.
 
 
